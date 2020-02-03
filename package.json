@@ -4,7 +4,8 @@
   "description": "Server for the Button game",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "now": "now dev"
   },
   "author": "Ben Grunfeld",
   "license": "ISC"

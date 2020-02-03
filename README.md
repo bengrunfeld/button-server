@@ -20,3 +20,16 @@ MYSQL_USER="username"
 MYSQL_PASSWORD="password"
 MYSQL_DATABASE="dbName"
 ```
+
+## Serverless Functions
+
+### Incoming
+
+- Add webhook info to DB
+- Add User account info to DB
+- Fetch current game info from DB
+- If no current game exists, create new game in DB
+- Send current game info to all webhook endpoints
+
+### Outgoing
+
